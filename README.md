@@ -18,7 +18,7 @@ My github is full of my small projects that I've used to learn new technologies 
 - Email: sinayra@hotmail.com
 - Linkedin: https://www.linkedin.com/in/sinayra-moreira/
 
-# Thank you for taking your time to check my profile
+# Thank you for taking your time to check my GitHub
 ![have a nice day](https://i.imgur.com/GVz090x.png "have a nice day")
 <!--
 **sinayra/sinayra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
