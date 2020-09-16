@@ -1,5 +1,5 @@
 # :wave: Hi there
-Hello, I'm Sinayra, currently working at Formata Editora Educacional as Software Engineer. I usually have a good time in learning new technologies and I'm not afraid of stepping out of my comfort zone. I graduated in Computer Science at University of Brasilia and I've learned an important lesson with a very awesome professor: 
+Hello, I'm Sinayra, currently looking for opportunities as Software Engineer. I usually have a good time in learning new technologies and I feel very satisfied when I can apply these most recent knowledge in a new project, personal or work project. I graduated in Computer Science at University of Brasilia and I've learned an important lesson with a very awesome professor: 
 > Programming is not a square and limited way of thinking: since you're creating something with your hands, it's a very handmade art. You must use math and science in a creative way to really create a new solution, not just copy-paste from Stack Overflow. 
 > Make this process as fun as possible.
 
